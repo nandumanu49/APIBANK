@@ -71,10 +71,11 @@ Postman - API Development Environment.
 ![Post Banks](screenshots/Postbanks.png)
 ### Retrieving Banks
 ![Get Banks](screenshots/getbanks.png)
-### Retrieving Branches
-![Get Branches](screenshots/getbranches.png)
 ### Creating Branches
 ![Post Branches](screenshots/postbranches.png)
+### Retrieving Branches
+![Get Branches](screenshots/getbranches.png)
+
 
 
 
