@@ -67,9 +67,13 @@ Express - Fast, unopinionated, minimalist web framework for Node.js.
 
 Postman - API Development Environment.
 
+### Creating Banks
 ![Post Banks](screenshots/Postbanks.png)
+### Retrieving Banks
 ![Get Banks](screenshots/getbanks.png)
+### Retrieving Branches
 ![Get Branches](screenshots/getbranches.png)
+### Creating Branches
 ![Post Branches](screenshots/postbranches.png)
 
 
