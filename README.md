@@ -1,14 +1,14 @@
-Bank API Server
+###Bank API Server
 
 This project implements a RESTful API server for managing banks and their branches. It provides CRUD (Create, Read, Update, Delete) operations for banks and their branches through various endpoints.
 
-Installation
+###Installation
 Clone this repository to your local machine.
 
 Install the required dependencies by running the following command:
 npm install
 
-USAGE
+###USAGE
 
 Start the API server by running the following command:
 npm start,
@@ -16,7 +16,7 @@ The server will start running on port 3000.
 
 
 
-You can use a tool like Postman to test the API endpoints. Here are some of the available endpoints:
+###You can use a tool like Postman to test the API endpoints. Here are some of the available endpoints:
 
 GET /banks: Retrieve a list of all banks.
 
@@ -38,7 +38,7 @@ DELETE /banks/:bankId/branches/:branchId: Delete a specific branch.
 
 Use the appropriate HTTP methods and request payloads to interact with the API endpoints.
 
-Examples
+###Examples
 Here are some examples of how to use the API endpoints:
 
 To retrieve a list of all banks:
@@ -55,13 +55,13 @@ Request Body: { "name": "Updated Bank Name" }
 To delete a specific bank:
 DELETE http://localhost:3000/banks/:bankId
 
-Contributing
+###Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-License
+###License
 This project is licensed under the MIT License.
 
-Acknowledgments
+###Acknowledgments
 
 Express - Fast, unopinionated, minimalist web framework for Node.js.
 
